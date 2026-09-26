@@ -7,6 +7,8 @@ Designed for server protection, community management, AI chat, and automation.
 
 [![Discord](https://img.shields.io/discord/1414217749038891102?color=5865F2&label=Support&logo=discord&logoColor=white)](https://discord.gg/aerox)
 
+<img src="docs/melon-preview.webp" alt="Melon running in a Discord server" width="720" />
+
 </div>
 
 ---

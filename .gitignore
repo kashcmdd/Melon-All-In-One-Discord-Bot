@@ -1,6 +1,8 @@
 *
 !src/
 !src/**
+!docs/
+!docs/**
 !package.json
 !README.md
 !LICENSE
